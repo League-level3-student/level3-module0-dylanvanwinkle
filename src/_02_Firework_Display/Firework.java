@@ -19,7 +19,7 @@ public class Firework{
 	
 	public Firework() {
 		//2. Initialize the Spark array to contain 100 Sparks. 
-
+Spark[] s = new Spark[100];
 		
 		//3. Iterate through the sparks and initialize each one to a new Spark.
 		//   Make each spark start at the middle bottom of the screen.
